@@ -1,7 +1,6 @@
 # Projeto-SCTEC
 Projeto do primeiro módulo do curso de aprendizado de máquina e visão computacional. Apenas python nativo.
-# Projeto Final
-Projeto do primeiro módulo do curso de machine learning e visão computacional. Apenas python nativo.
+
 # Projeto de Sanitização e Padronização de Dados da Olist
 
 ## Sumário
