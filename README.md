@@ -170,22 +170,39 @@ from datetime import datetime
 
 Nenhuma instalação adicional é necessária.
 
-### 3. Preparação dos Dados
-
-Faça o upload dos arquivos:
-1.Baixe a base de Dados(.csv): `https://github.com/fiesc-junior-prado/mine_projeto_bloco_1`
-por onde eu peguei!
-Ou também pode ser encontrado na base pública do Kaggle.
-
-Foram usados esses dois `datasets`:
+### 3. Download e Configuração dos Datasets(csv)
+`Datasets usados`:
 * `olist_orders_dataset.csv`
 * `olist_products_dataset.csv`
 
-2. Depois se for usar o google colab, faça o upload para o Google Drive, esse foi caminho usado por mim:
+Estrutura utilizada neste projeto:
+### 3.2 Utilizando o Google Colab
+```text
+Faça o upload dos arquivos:
+
+1 - Baixe a base de Dados(.csv): `https://github.com/fiesc-junior-prado/mine_projeto_bloco_1`
+por onde eu peguei!
+Ou também pode ser encontrado na base pública do Kaggle.
+
+2 - Depois se for usar o google colab, faça o upload para o Google Drive, esse foi caminho usado por mim:
 ```text
 /content/drive/MyDrive/
+├── olist_orders_dataset.csv
+└── olist_products_dataset.csv
 ```
+### 3.2 Utilizando o VsCode
+```text
+Faça o upload dos arquivos:
 
+1 - Baixe a base de Dados(.csv): `https://github.com/fiesc-junior-prado/mine_projeto_bloco_1`
+por onde eu peguei!
+Ou também pode ser encontrado na base pública do Kaggle.
+
+2 - Depois coloque os dois `datasets` na mesma pasta do arquivo principal.
+├── main.py
+├── olist_orders_dataset.csv
+└── olist_products_dataset.csv
+```
 ### 4. Abertura do Notebook
 
 Abra o notebook `.ipynb` contendo o código do projeto.
