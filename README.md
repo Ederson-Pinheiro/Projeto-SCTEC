@@ -173,14 +173,15 @@ Nenhuma instalação adicional é necessária.
 ### 3. Preparação dos Dados
 
 Faça o upload dos arquivos:
+1.Baixe a base de Dados(.csv): `https://github.com/fiesc-junior-prado/mine_projeto_bloco_1`
+por onde eu peguei!
+Ou também pode ser encontrado na base pública do Kaggle.
 
+Foram usados esses dois `datasets`:
 * `olist_orders_dataset.csv`
 * `olist_products_dataset.csv`
 
-para o diretório desejado.
-
-Caso utilize o Google Drive, o caminho pode ser semelhante a:
-
+2. Depois se for usar o google colab, faça o upload para o Google Drive, esse foi caminho usado por mim:
 ```text
 /content/drive/MyDrive/
 ```
