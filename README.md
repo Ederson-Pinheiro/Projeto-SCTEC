@@ -154,11 +154,11 @@ Sanitização concluída com sucesso.
 
 ## 4. Guia de Execução
 
-### 1. Ambiente de Desenvolvimento
+### 4.1. Ambiente de Desenvolvimento
 
 O projeto foi desenvolvido e testado utilizando o `Google Colab`.
 
-### 2. Bibliotecas Necessárias
+### 4.2. Bibliotecas Necessárias
 
 O script utiliza apenas bibliotecas nativas do Python:
 
@@ -170,13 +170,13 @@ from datetime import datetime
 
 Nenhuma instalação adicional é necessária.
 
-### 3. Download e Configuração dos Datasets(csv)
+### 4.3 Download e Configuração dos Datasets(csv)
 `Datasets usados`:
 * `olist_orders_dataset.csv`
 * `olist_products_dataset.csv`
 
 Estrutura utilizada neste projeto:
-### 3.2 Utilizando o Google Colab
+### 4.4 Utilizando o Google Colab
 ```text
 Faça o upload dos arquivos:
 
@@ -190,7 +190,7 @@ Ou também pode ser encontrado na base pública do Kaggle.
 ├── olist_orders_dataset.csv
 └── olist_products_dataset.csv
 ```
-### 3.2 Utilizando o VsCode
+### 4.5 Utilizando o VsCode
 ```text
 Faça o upload dos arquivos:
 
@@ -203,11 +203,11 @@ Ou também pode ser encontrado na base pública do Kaggle.
 ├── olist_orders_dataset.csv
 └── olist_products_dataset.csv
 ```
-### 4. Abertura do Notebook
+### 4.6 Abertura do Notebook
 
 Abra o notebook `.ipynb` contendo o código do projeto.
 
-### 5. Execução Sequencial
+### 4.7 Execução Sequencial
 
 Execute as células na seguinte ordem:
 
