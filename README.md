@@ -15,7 +15,7 @@ Projeto do primeiro módulo do curso de aprendizado de máquina e visão computa
 
 Este projeto foca na crucial tarefa de **sanitização e padronização de dados** provenientes dos datasets de pedidos (`olist_orders_dataset.csv`) e produtos (`olist_products_dataset.csv`) da Olist. A Olist, como uma grande plataforma de e-commerce, lida diariamente com um volume massivo de informações, o que naturalmente pode levar a inconsistências, valores ausentes e formatos não uniformes nos dados coletados. A qualidade desses dados é um fator determinante para a precisão de análises de negócio e a eficácia de futuros modelos de Machine Learning.
 
-O script desenvolvido atua como uma solução robusta para enfrentar esses desafios. Ele emprega uma série de técnicas de pré-processamento para transformar dados brutos em um formato limpo e consistente, pronto para consumo por outras etapas do pipeline de dados ou diretamente por modelos preditivos. Este processo é essencial para garantir que qualquer insight gerado a partir desses dados seja confiável e que os modelos de IA construídos sobre eles sejam robustos e justos.
+O roteiro(script) desenvolvido atua como uma solução robusta para enfrentar esses desafios. Ele emprega uma série de técnicas de pré-processamento para transformar dados brutos em um formato limpo e consistente, pronto para consumo por outras etapas do pipeline de dados ou diretamente por modelos preditivos. Este processo é essencial para garantir que qualquer insight gerado a partir desses dados seja confiável e que os modelos de IA construídos sobre eles sejam robustos e justos.
 
 ## 2. Objetivos
 
