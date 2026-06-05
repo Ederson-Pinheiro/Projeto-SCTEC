@@ -226,10 +226,6 @@ Ao final da execução, o relatório de sanitização será exibido no console.
 
 ## 5. Reflexão Teórica sobre Machine Learning
 
-A etapa de limpeza e preparação dos dados é uma das fases mais importantes do desenvolvimento de sistemas de `Machine Learning`. Dados incompletos, inconsistentes ou incorretos podem levar os algoritmos a aprender padrões inexistentes ou irrelevantes, comprometendo sua capacidade de generalização.
+A etapa de limpeza e preparação dos dados é uma das fases mais importantes do desenvolvimento de sistemas de `Machine Learning`. Dados incompletos, inconsistentes ou incorretos podem levar os algoritmos a aprender padrões inexistentes ou irrelevantes, comprometendo sua capacidade de generalização.Quando informações faltantes não são tratadas adequadamente, o modelo pode associar comportamentos incorretos aos exemplos de treinamento, reduzindo sua precisão em cenários reais.
 
-Quando informações faltantes não são tratadas adequadamente, o modelo pode associar comportamentos incorretos aos exemplos de treinamento, reduzindo sua precisão em cenários reais.
-
-Além disso, a utilização de dados limpos ajuda a minimizar vieses estatísticos e reduz o risco de `Overfitting`. O `Overfitting` ocorre quando um modelo aprende detalhes específicos ou ruídos presentes no conjunto de treinamento, em vez de capturar padrões verdadeiramente representativos.
-
-Ao aplicar regras consistentes de validação, correção e tratamento de dados ausentes, cria-se uma base mais confiável para o treinamento dos algoritmos, permitindo previsões mais robustas, precisas e justas.
+Além disso, a utilização de dados limpos ajuda a minimizar vieses estatísticos e reduz o risco de `Overfitting`. O `Overfitting` ocorre quando um modelo aprende detalhes específicos ou ruídos presentes no conjunto de treinamento, em vez de capturar padrões verdadeiramente representativos.Ao aplicar regras consistentes de validação, correção e tratamento de dados ausentes, cria-se uma base mais confiável para o treinamento dos algoritmos, permitindo previsões mais robustas, precisas e justas.
