@@ -53,7 +53,7 @@ Os seguintes campos são analisados:
 * `product_height_cm`
 * `product_width_cm`
 
-Quando um valor está ausente, ele é substituído pela media da respectiva coluna.
+Quando um valor está ausente, ele é substituído pela `média` da respectiva coluna.
 
 Essa estratégia evita a perda de registros e preserva a quantidade de dados disponível para análise.
 
