@@ -144,7 +144,7 @@ Pedidos com entrega nula e não cancelados: 2965
 Sanitização concluída com sucesso.
 ```
 
-## Tecnologias Utilizadas
+## `Tecnologias Utilizadas`
 
 * `Python 3`
 * `csv`
