@@ -136,7 +136,7 @@ Produtos processados: 32951
 Pedidos processados: 99441
 
 Categorias corrigidas: 610
-Dimensões corrigidas: 2488
+Dimensões corrigidas: 8
 
 Pedidos cancelados: 625
 Pedidos com entrega nula e não cancelados: 2965
