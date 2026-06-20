@@ -1,5 +1,6 @@
 # Projeto-SCTEC
 Projeto do primeiro módulo do curso de aprendizado de máquina e visão computacional. Apenas python nativo.
+Resolvi fazer dois `scripts`,um com menos uso de IA e outro com mais. Fiz assim, para comparar os dois!
 
 # Projeto de Sanitização e Padronização de Dados da Olist
 
@@ -53,9 +54,9 @@ Os seguintes campos são analisados:
 * `product_height_cm`
 * `product_width_cm`
 
-Quando um valor está ausente, ele é substituído pela `média` da respectiva coluna.
+Quando um valor está ausente, ele é substituído pela `mediana` da respectiva coluna.
 
-Essa estratégia evita a perda de registros e preserva a quantidade de dados disponível para análise.
+Essa estratégia evita outliers.
 
 ### 3.2 Padronização de Strings e Regex (Dataset de Produtos)
 
